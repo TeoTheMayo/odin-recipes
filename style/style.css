@@ -12,3 +12,13 @@ header, h4 {
     color: black;
 }
 
+.images {
+    width: 500px;
+    height: auto;
+    border-radius: .5cm;
+}
+
+.description {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+}
